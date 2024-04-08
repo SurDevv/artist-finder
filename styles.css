@@ -69,17 +69,9 @@ body {
   font-size: 30px;
 }
 
-.nav {
-
-}
-
 .links {
   display: flex;
   column-gap: 45px;
-}
-
-.link-item {
-
 }
 
 .link {
@@ -226,10 +218,6 @@ body {
   letter-spacing: 1.5px;
 }
 
-.credential {
-
-}
-
 /* HOW SECTION */
 .how {
   display: flex;
@@ -347,10 +335,6 @@ body {
 .legal-list {
   display: flex;
   column-gap: 35px;
-}
-
-.legal-item {
-
 }
 
 .legal-link {
